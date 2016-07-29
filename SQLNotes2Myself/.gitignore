@@ -1,0 +1,15 @@
+# All backups.
+*~
+
+# All logs.
+*.log
+
+# All vi swap files.
+*.swp
+
+# Temp files by gitk
+.gitk-tmp.*
+
+# Ignore Eclipse files and directories.
+.project
+

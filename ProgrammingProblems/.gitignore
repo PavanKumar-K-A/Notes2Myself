@@ -1,0 +1,5 @@
+# Files to be ignored by git
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]

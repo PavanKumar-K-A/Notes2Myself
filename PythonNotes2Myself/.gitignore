@@ -1,0 +1,22 @@
+# Ignore generated python files.
+*.py[cod]
+
+# C extensions
+*.so
+
+# Ignore PyCharm related files.
+.idea
+
+# Ignore Eclispe related files.
+.project
+.pydevproject
+
+# Person scripts
+src/scripts/
+
+# Generated files.
+src/topics/csv/data_output.csv
+*.log
+
+# iPython Notebook Checkpoints
+.ipynb_checkpoints
